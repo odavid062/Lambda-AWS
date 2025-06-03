@@ -1,5 +1,6 @@
 🧪 Lambda AWS com Node.js (TypeScript)
-Este repositório contém uma função AWS Lambda desenvolvida em Node.js com TypeScript, criada para fins educacionais e experimentais. O objetivo é explorar os conceitos de computação serverless, integração com serviços da AWS e práticas modernas de desenvolvimento.
+Este repositório contém uma função AWS Lambda desenvolvida em Node.js com TypeScript, criada para fins educacionais e experimentais. 
+O objetivo é explorar os conceitos de computação serverless, integração com serviços da AWS e práticas modernas de desenvolvimento.
 
 🎯 Objetivos
 Compreender o funcionamento do AWS Lambda e sua integração com outros serviços da AWS.
