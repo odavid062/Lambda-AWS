@@ -13,12 +13,13 @@
   "description": "",
   "dependencies": {
     "@types/pg": "^8.15.4",
+    "aws-lambda": "^1.0.7",
     "dotenv": "^16.5.0",
     "pg": "^8.16.0"
   },
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.149",
-    "@types/node": "^22.15.29",
+    "@types/aws-lambda": "^8.10.150",
+    "@types/node": "^22.15.32",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
